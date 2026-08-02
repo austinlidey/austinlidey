@@ -10,9 +10,9 @@
 </div>
 
 ---
-
-## `whoami`
-
+<div align="center">
+<h2><code>whoami</code></h2>
+</div>
 ```python
 austin = {
     "alias": "Author Chaos",
@@ -45,7 +45,9 @@ I build software, systems, tools, and occasionally entire fictional economies. M
 
 ---
 
-## `operating_philosophy`
+<div align="center">
+<h2><code>operating_philosophy</code></h2>
+</div>
 
 | Principle                                | In practice                                                                                                          |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -71,17 +73,19 @@ The machine should remember the ritual so the human can focus on judgment.
 
 ---
 
-## `current_quests`
+<div align="center">
+<h2><code>current_quests</code></h2>
+</div>
 
 ```yaml
 quests:
-  - build private, local-first AI systems
-  - design software that explains itself
-  - turn scattered information into usable knowledge
-  - create tools for people who hate managing tools
-  - turn repeated work into reliable infrastructure
-  - make AI a collaborator, not a slot machine
-  - build ambitious things without worshipping complexity
+  [==5%==>] learn AI/ML fundamentals
+  [===10%==>] develop games in Unreal Engine 5.8
+  [======15%=====>] enjoy the AI fueled, app-development renaissance while it lasts
+  [===10%==>] stand up my home-lab (with its own local-AI)
+  [=0%=>] offer my server infrastructure to friends and family
+  [=0%=>] contribute to society by fighting for our rights; privacy, freedom, and happiness.
+  [=============1000%=============>] surely more things that I can't remember currently...
 ```
 
 Current rabbit holes include:
@@ -97,47 +101,47 @@ Current rabbit holes include:
 
 ---
 
-## `things_i_build`
+<div align="center">
+<h2><code>what_im_building</code></h2>
+</div>
 
-### 🧠 Intelligent systems
+### Intelligent systems
 
-Private AI infrastructure, document ingestion, retrieval systems, local models, agents, and tools that turn scattered information into usable knowledge.
+Creating/modifying tools that turn scattered information into usable knowledge;
 
-### 🛠️ Developer tools
+- Private/On-Prem AI infrastructure
+  - Document ingestion
+  - Retrieval systems
+  - local models, agents, etc.
 
-Utilities, libraries, parsers, workflow automation, and internal platforms that remove friction without hiding important behavior.
+### Developer tools
 
-### ✍️ Writing and knowledge systems
+Anything to remove friction without hiding important behavior. Things like:
 
-Source-grounded corpora, reusable skills, technical-writing pipelines, and quality gates that keep claims clear, attributable, and testable.
+- Utilities
+- Libraries
+- Parsers
+- Workflow automation
 
-### 🏠 Human infrastructure
+### Knowledge systems
 
-Family applications, home systems, planning software, and technology designed around actual daily life.
+Source-grounded corpora, reusable skills, technical-writing pipelines, and quality gates.
 
-### 🎮 Constructed chaos
+### Human infrastructure
 
-Games, simulations, fictional markets, and strange little worlds where players inevitably discover exploits I never imagined.
+Things that help with daily life and making it better/more efficient. Family applications, home systems, planning software, and technology designed around actual daily life.
 
-Some projects become products. Some become lessons. Some become seventeen Docker containers and a story. All are useful.
+### Constructed chaos
 
----
+Games, simulations, fictional markets, and strange little worlds where players inevitably discover exploits I didn't even think of.
 
-## `work_behind_the_ideas`
-
-| Field note | What it explores |
-|---|---|
-| [World-Class AI Operations](World_Class_AI_Operations_Pack_v2/World_Class_AI_Operations_Doctrine_and_Learning_Plan_v2.md) | Lean flow, quality at source, AI Andon signals, controlled WIP, the eight wastes, and earned automation. |
-| [AI Agent Operating Doctrine](Austin_AI_Doctrine_Pack/AI_AGENT_OPERATING_DOCTRINE.md) | A compact behavior contract for reliable work without tool sprawl or performative complexity. |
-| [AI Writing Quality System](AI_Writing_Quality_System_STE_Inspired.md) | An STE-inspired pipeline that treats clarity as a specification and checks form separately from substance. |
-| [AI-Native Knowledge Seed](Austin_Marchese_AI_Knowledge_Seed_v0.1/Austin_Marchese_AI_Knowledge_Seed_v0.1/README.md) | A source-grounded corpus with atomic claims, attribution boundaries, confidence, caveats, known gaps, and an ingestion plan. |
-| [Applied Python Lesson Plan](applied-python-standard-library-lesson-plan.md) | Project-based learning through a typed streaming pipeline with explicit normal, boundary, and misuse tests. |
-
-This repository is becoming a living field manual for dependable AI-native work. The goal is not an impressive pile of artifacts. It is a practice that becomes simpler, more useful, and more trustworthy with every completed loop.
+Some projects become products while others become lessons. It's all apart of the process though!
 
 ---
 
-## `in_my_toolbag_currently`
+<div align="center">
+<h2><code>in_my_toolbag_currently</code></h2>
+</div>
 
 <div align="center">
 
@@ -160,61 +164,10 @@ But recall... the stack is **never the identity.** A tool is good when it disapp
 
 ---
 
-## `definition_of_progress`
-
-I care less about tokens, agents, documents, demos, and generated volume than I do about:
-
-- lead time to a verified outcome;
-- first-pass quality and escaped defects;
-- rework and human attention required;
-- actual use, not generated inventory;
-- knowledge captured for reuse;
-- complexity and testing debt removed.
-
-```text
-impact = (importance × reliability × actual use × learning)
-         ───────────────────────────────────────────────────
-           complexity + oversight cost + testing debt
-```
-
-Sometimes the best AI decision is a better agent. Sometimes it is a ten-line script, a human checkpoint, or deleting a system that never earned its place.
-
----
-
-## `currently`
-
-```javascript
-while (alive) {
-    learn();
-    build();
-    verify();
-    simplify();
-    questionAssumptions();
-
-    if (process.isNeedlesslyComplicated()) {
-        process.deleteSomething();
-    }
-
-    ship();
-}
-```
-
----
-
-## `transmission`
-
 <div align="center">
 
-### Calm in the mind. Chaos in the workshop.
+<h2><code>the_end</code></h2>
 
-**Build deliberately. Experiment recklessly. Verify what matters. Document the weird parts.**
-
-```text
-May your builds be green,
-your abstractions be earned,
-and your logs contain the answer.
-```
-
-If you are building reliable AI systems, useful developer tools, private knowledge infrastructure, or strange worlds with coherent rules, [come say hello](https://authorchaos.com).
+If you are building reliable AI systems, useful developer tools, private knowledge infrastructure, or strange worlds with coherent rules, please feel free to [come say hello](https://authorchaos.com).
 
 </div>
