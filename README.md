@@ -1,9 +1,12 @@
 <div align="center">
 
-# Austin Lidey || `Author Chaos`
-
-**software engineer · systems thinker · professional button-pusher**
-
+<p align="center">
+  <img
+    src="./.assets/images/author-chaos-header.png"
+    alt="Austin Lidey — Author Chaos"
+    width="100%"
+  />
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FE5F00&center=true&vCenter=true&width=700&lines=Calm+mind.+Chaotic+compiler.;Building+things+that+should+probably+exist.;Automate+the+boring.+Understand+the+important.;Ship+with+intent." alt="Typing SVG" />
 
@@ -13,9 +16,6 @@
 ---
 
 ## `whoami`
-<html>
-<blockquote> Make it <u>simple</u>, <b>useful</b>, <i>slightly unhinged</i>.</blockquote>
-</html>
 
 ```python
 austin = {
@@ -35,13 +35,6 @@ austin = {
 }
 ```
 <html>
-<p align="center">
-  <img
-    src="./assets/author-chaos-header.png"
-    alt="Austin Lidey — Author Chaos"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   <a href="https://github.com/austinlidey">
@@ -78,6 +71,10 @@ My work tends to live somewhere between:
 * **“This may have gotten slightly out of hand.”**
 
 I care less about collecting technologies and more about using the right ones to make something **clearer, faster, safer, or genuinely more useful**.
+
+<html>
+<blockquote> TL;DR about me is that I make every solution <u>simple</u>, <b>useful</b>, <i>slightly unhinged</i>.</blockquote>
+</html>
 
 ---
 
