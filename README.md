@@ -13,8 +13,9 @@
 ---
 
 ## `whoami`
-
-> **Make it simple, useful, slightly unhinged.**
+<html>
+<blockquote> Make it <u>simple</u>, <b>useful</b>, <i>slightly unhinged</i>.</blockquote>
+</html>
 
 ```python
 austin = {
@@ -33,6 +34,40 @@ austin = {
     "debug_strategy": "Stare at it until the machine confesses",
 }
 ```
+<html>
+<p align="center">
+  <img
+    src="./assets/author-chaos-header.png"
+    alt="Austin Lidey — Author Chaos"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/austinlidey">
+    <img
+      src="https://img.shields.io/badge/GitHub-Author%20Chaos-23231A?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://authorchaos.com">
+    <img
+      src="https://img.shields.io/badge/Website-Enter%20the%20Chaos-FE5F00?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=white"
+      alt="Author Chaos website"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/austinlidey">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Austin%20Lidey-322F20?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+</html>
+
+<br />
 
 I build software, systems, tools, and occasionally entire fictional economies.
 
@@ -239,12 +274,6 @@ while (alive) {
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Author_Chaos-23231A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Website](https://img.shields.io/badge/Website-Enter_the_Chaos-FE5F00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://YOUR-WEBSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Austin_Lidey-322F20?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-
-<br />
-
 ```text
 May your builds be green,
 your abstractions be earned,
@@ -252,19 +281,3 @@ and your logs contain the answer.
 ```
 
 </div>
-
-
-<!--
-**austinlidey/austinlidey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
