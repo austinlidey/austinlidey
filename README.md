@@ -62,36 +62,19 @@ austin = {
 
 <br />
 
-I build software, systems, tools, and occasionally entire fictional economies.
+I build software, systems, tools, and occasionally entire fictional economies. My work tends to live somewhere between:
 
-My work tends to live somewhere between:
-
-* **“This solves a real problem.”**
-* **“Why does this not already exist?”**
-* **“This may have gotten slightly out of hand.”**
+* *This solves a real problem.*
+* *Why does this not already exist?*
+* *This may have gotten **slightly** out of hand.*
 
 I care less about collecting technologies and more about using the right ones to make something **clearer, faster, safer, or genuinely more useful**.
 
 <html>
-<blockquote> TL;DR about me is that I make every solution <u>simple</u>, <b>useful</b>, <i>slightly unhinged</i>.</blockquote>
+<blockquote> <i>TL;DR about me is that I make every solution <u>simple</u>, <b>useful</b>, <i>slightly unhinged</i>.</blockquote>
 </html>
 
 ---
-
-## `the_way`
-
-```text
-Before automation, understanding.
-
-Before scale, simplicity.
-
-Before architecture, intent.
-
-Before perfection, motion.
-
-Before adding another framework...
-perhaps go outside.
-```
 
 ### My operating philosophy
 
