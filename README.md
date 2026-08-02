@@ -186,14 +186,14 @@ All are useful.
   <a href="https://github.com/austinlidey">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api?username=austinlidey&amp;show_icons=true&amp;hide_border=true&amp;title_color=FE5F00&amp;icon_color=988F2A&amp;text_color=E6E1D8&amp;bg_color=23231A"
+      src="./profile/stats.svg"
       alt="Austin Lidey's GitHub statistics"
     />
   </a>
   <a href="https://github.com/austinlidey">
     <img
       height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=austinlidey&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;hide_border=true&amp;title_color=FE5F00&amp;text_color=E6E1D8&amp;bg_color=23231A"
+      src="./profile/top-langs.svg"
       alt="Austin Lidey's most used languages"
     />
   </a>
@@ -202,7 +202,7 @@ All are useful.
 <p align="center">
   <a href="https://github.com/austinlidey">
     <img
-      src="https://streak-stats.demolab.com?user=austinlidey&amp;hide_border=true&amp;background=23231A&amp;ring=FE5F00&amp;fire=FE5F00&amp;currStreakLabel=988F2A&amp;sideLabels=E6E1D8&amp;currStreakNum=E6E1D8&amp;sideNums=E6E1D8&amp;dates=8D897F"
+      src="./profile/streak.svg"
       alt="Austin Lidey's GitHub contribution streak"
     />
   </a>
