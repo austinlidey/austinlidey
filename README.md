@@ -32,17 +32,17 @@ austin = {
 }
 ```
 
-I build software, systems, tools, and occasionally entire fictional economies. My work tends to live somewhere between:
+The name is **Austin Lidey** and I build software, systems, tools, and occasionally entire fictional economies. My work tends to live somewhere between:
 
 - *This solves a real problem.*
 - *Why does this not already exist?*
 - *This may have gotten slightly out of hand.*
 
-**Austin Lidey** is the builder: map the process, find the constraint, define the test, and ship the smallest dependable system.
+ I'm a builder: mapping the process, finding the constraint, defining the test, and shipping the smallest dependable system is what I do best.
 
-**Author Chaos** is the creative current: the ideas, stories, experiments, and distinctly human voice that make the system worth building.
+**Author Chaos** is my creative; my ideas, stories, experiments, and voice. Touch keys, not grass.
 
-> Chaos creates possibility. Operations turn possibility into something people can trust and use.
+> Shake the tree, create some chaos.
 
 ---
 
