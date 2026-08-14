@@ -62,16 +62,6 @@ The name is **Austin Lidey** and I build software, systems, tools, and occasiona
 | **AI may suggest; but will never drive** | AI may propose, transform, and test. Humans own purpose, risk, relationships, exceptions, taste, and accountability. |
 | **Ship, sharpen; repeat**                | Momentum creates information. Evidence improves the next decision. Decisions compound!                               |
 
-My work centers on **World-Class AI Operations**: improving the flow from human intent to verified outcomes with fewer unnecessary tools, handoffs, defects, and unearned automations.
-
-```text
-intent → specification → bounded execution → verification → useful outcome
-   ↑                                                        ↓
-   └──────────── learn, simplify, encode, and reuse ─────────┘
-```
-
-The machine should remember the ritual so the human can focus on judgment.
-
 ---
 
 <div align="center">
@@ -91,14 +81,13 @@ quests:
 
 Current rabbit holes include:
 
-- AI-native software engineering
-- Local models, RAG, agents, and private knowledge systems
-- Source-grounded automation and knowledge pipelines
-- Developer experience, functional testing, and engineering safety
-- Distributed systems and self-hosted infrastructure
-- Controlled technical writing that still preserves a human voice
+- Agentic software engineering
 - Game systems, simulated economies, and multiplayer chaos
-- Software resurrection: giving abandoned ideas modern capabilities
+- Open sourcing local models, and private-knowledge systems
+- Building repeatable, behavior-driven functional testing systems
+- Distributed systems and self-hosted infrastructure
+- **tl;dr** just do it yourself in general...
+
 
 ---
 
@@ -106,7 +95,12 @@ Current rabbit holes include:
 <h2><code>what_im_building</code></h2>
 </div>
 
-### Intelligent systems
+### Personal projects
+
+#### [epub-crawler](https://github.com/austinlidey/epub-crawler)
+Converts EPUB files to Markdown and Plain Text, with metadata extraction, a generated table of contents, and image extraction/embedding.
+
+### Proactive systems
 
 Creating/modifying tools that turn scattered information into usable knowledge;
 
