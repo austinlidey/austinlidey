@@ -32,17 +32,14 @@ austin = {
 }
 ```
 
-The name is **Austin Lidey** and I build software, systems, tools, and occasionally entire fictional economies. My work tends to live somewhere between:
+My name is **Austin Lidey** and I build **reliable systems** -- mostly software/tools, the occasional in-game economy. My work generally lives somewhere between:
 
 - *This solves a real problem.*
 - *Why does this not already exist?*
-- *This may have gotten slightly out of hand.*
-
- I'm a builder: mapping the process, finding the constraint, defining the test, and shipping the smallest dependable system is what I do best.
-
-**Author Chaos** is my creative; my ideas, stories, experiments, and voice. Touch keys, not grass.
-
-> Shake the tree, create some chaos.
+- *This may have gotten slightly out of hand..*
+ 
+<h3>Author Chaos</h3>
+Touch keys, <s>not</s> <b>and</b> grass.
 
 ---
 
@@ -154,15 +151,3 @@ PostgreSQL    → Persistent data that intends to *remain* data.
 Docker        → Controlled chaos... in neat labeled boxes.
 Unreal Engine → Mucho expensive ways to make those polygons bounce.
 ```
-
-But recall... the stack is **never the identity.** A tool is good when it disappears into the work.
-
----
-
-<div align="center">
-
-<h2><code>the_end</code></h2>
-
-If you are building reliable AI systems, useful developer tools, private knowledge infrastructure, or strange worlds with coherent rules, please feel free to [come say hello](https://authorchaos.com).
-
-</div>
